@@ -1,0 +1,120 @@
+<html>
+<h3>Client update - 1/8/2014</h3>
+<p>
+A new client for Relleka has been released!
+<br/>
+<br />
+<br />
+Final warning: READ the rules!  Failure in doing so may result in a punishment.
+<br/>
+<br/>
+</p>
+---------------------------------------------------------------------------------
+<h3>Merry Christmas - 12/16/2014</h3>
+<p>
+The Christmas event is now live as well as Bonus experience until Jan 2nd 2015.
+<br/>
+<br />
+<br />
+Final warning: READ the rules!  Failure in doing so may result in a punishment.
+<br/>
+<br/>
+</p>
+---------------------------------------------------------------------------------
+<h3>The Ancient Trials - 11/25/2014</h3>
+<p>
+The Ancient Trials have been released!  For more information visit http://relleka.net!
+<br/>
+<br />
+<br />
+Final warning: READ the rules!  Failure in doing so may result in a punishment.
+<br/>
+<br/>
+</p>
+---------------------------------------------------------------------------------
+<h3>Client update reverted - 11/11/2014</h3>
+<p>
+The old Relleka client is back!
+<br/>
+<br />
+<br />
+Final warning: READ the rules!  Failure in doing so may result in a punishment.
+<br/>
+<br/>
+</p>
+---------------------------------------------------------------------------------
+<h3>Relleka Gameserver Moved - 10/17/2014</h3>
+<p>
+The Relleka gameserver has been moved to new hardware!
+<br/>
+<br />
+<br />
+Final warning: READ the rules!  Failure in doing so may result in a punishment.
+<br/>
+<br/>
+</p>
+---------------------------------------------------------------------------------
+<h3>Relleka is going strong! - 10/10/2014</h3>
+<p>
+Updates are coming at a fast pace, we are working to finish and cleanup what we have.
+<br/>
+Our first content update will come soon!  More on this later.
+<br />
+<br />
+Final warning: READ the rules!  Failure in doing so may result in a punishment.
+<br/>
+<br/>
+</p>
+---------------------------------------------------------------------------------
+<h3>Relleka is OPEN! - 10/06/2014</h3>
+<p>
+It is time!  Relleka is finally here, no accounts will be reset from this point on (other than cheaters)!
+<br/>
+We encourage you to still report any and all issues on our forum! (http://relleka.net)
+<br />
+<br />
+Final warning: READ the rules!  Failure in doing so may result in a punishment.
+<br/>
+<br/>
+</p>
+---------------------------------------------------------------------------------
+<h3>Site launch - 9/29/2014</h3>
+<p>
+Relleka.net has launched!  We are in the final stages of launching Relleka to the public!
+<br/>
+We look forward to sharing what we have worked very hard on with you soon!
+<br />
+<br />
+Please report any issues or bugs on the http://relleka.net/!
+<br/>
+<br/>
+
+</p>
+---------------------------------------------------------------------------------
+<h3>Pre-beta playtest - 9/23/2014</h3>
+<p>
+Relleka is nearing completion and we are in need of players to test the server as much 
+as possible before we launch our beta!
+<br />
+<br />
+Please report any issues or bugs on the http://relleka.net/!
+<br/>
+<br/>
+
+</p>
+---------------------------------------------------------------------------------
+<h3>Server testing has begun! - 8/6/2014</h3>
+<p>
+Now paired with the loader testing; the server testing has begun, anyone who is reading this has
+ access to the server by simply hitting 'Play' on the loader.  
+
+Please report any issues, and bugs to Nightleaf475 on Skype.
+</p>
+---------------------------------------------------------------------------------
+<br />
+<h3>Loader testing has begun! - 8/5/2014</h3>
+<p>
+The loader has been sent out for testing!  The purpose of the loader is to keep your client executable
+ current with the public version, thus making client updates possible.
+</p>
+</html>
