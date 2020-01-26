@@ -1,9 +1,17 @@
 # Relleka-Website
-Custom made website for a game written in PHP, SQL, HTML and CSS.
 
-                    GNU GENERAL PUBLIC LICENSE
-                       Version 3, 29 June 2007
+This is a website created for a private server community for RuneScape. This website served as a portal to connect the community together and serviced features such as news, leaderboards and community forums.
 
- Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
+# Languages & Tools Used
+
+This was developed using [Brackets](http://brackets.io) and written in a mixture of PHP, HTML and CSS.
+
+This uses Bootstrap for scaffolding and a modified CSS for the theme.
+
+# Author
+
+Colton Thompson [@NightleafTV](https://twitter.com/NightleafTV) 
+
+# Screenshots
+
+![Image of Relleka](https://i.imgur.com/YG45owg.png)
