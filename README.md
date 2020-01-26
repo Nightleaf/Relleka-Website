@@ -15,3 +15,6 @@ Colton Thompson [@NightleafTV](https://twitter.com/NightleafTV)
 # Screenshots
 
 ![Image of Relleka](https://i.imgur.com/YG45owg.png)
+
+![Image of Relleka Leaderboards](https://i.imgur.com/0PHQLoH.png)
+
